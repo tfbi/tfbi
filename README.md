@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tf.bi
-- 🔭 I’m currently working on byd
+- 🔭 I’m currently working on [byd](https://www.bydglobal.com/cn/index.html)
 - 🌱 I’m currently learning flink、flink-cdc
 - 📫 you can reach me by bi.tengfei1@byd.com
 
