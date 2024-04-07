@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tf.bi
-- 🔭 I’m currently working on bigdata-hda、bigdata-job
+- 🔭 I’m currently working on bigdata-hda、bigdata-eis
 - 🌱 I’m currently learning flink、flink-cdc
 - 📫 you can reach me by bi.tengfei1@byd.com
 
