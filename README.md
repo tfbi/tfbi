@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tf.bi
-- 🔭 I’m currently working on bigdata-hda、bigdata-eis
-- 🌱 I’m currently learning flink、flink-cdc、doris
+- 🔭 I’m currently working on kms、agnet、dichat
+- 🌱 I’m currently learning springai、skill、agent、rag、llm
 - 📫 you can reach me by tf.bi@outlook.com
 
 <!---
